@@ -1,7 +1,7 @@
 [project]
-name = "data-agent-2"
+name = "analyst-iq"
 version = "0.1.0"
-description = "Add your description here"
+description = "Interactive AutoML and AI-powered conversational data analyst"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
